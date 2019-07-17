@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\shelby\source\repos\project2b\project2b\main.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\shelby\source\repos\project2b\project2b\main.cpp(175): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project2B.vcxproj -> C:\Users\Shelby\source\repos\Project2B\Debug\Project2B.exe
